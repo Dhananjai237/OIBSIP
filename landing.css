@@ -1,0 +1,205 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#head {
+    background-image: url("https://wallpapercave.com/wp/wp6752166.jpg");
+}
+
+#head div {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+#head div h3 {
+    color: red;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    margin: 20px 310px 0px 5px;
+    cursor: default;
+}
+
+#head div h2 {
+    font-size: 15px;
+    margin: 20px 0px 0px 50px;
+    color: red;
+}
+
+#head div h4 {
+    font-size: 15px;
+    margin: 22px 0px 0px 50px;
+    color: black;
+}
+
+#head div select {
+    background-color: transparent;
+    border: 0px;
+    color: black;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+#head h1 {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 1000;
+    margin-bottom: 20px;
+}
+
+#head h5 {
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+    margin-bottom: 10px;
+}
+
+.button {
+    background-color: darkgreen;
+    color: white;
+    padding: 10px 15px;
+    border: 1px solid green;
+    border-radius: 50px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+#head h6 {
+    color: white;
+    text-align: center;
+    font-size: 8px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+    padding-bottom: 70px;
+}
+
+#content {
+    background-color: white;
+}
+
+#content div {
+    display: flex;
+    padding: 40px 25px;
+}
+
+#content div div {
+    display: block;
+    padding: 0px 20px 0px 30px;
+}
+
+#content img {
+    height: 200px;
+    width: 250px;
+}
+
+.headLine {
+    color: black;
+    font-size: 22px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 1000;
+    margin-bottom: 15px;
+}
+
+.baseLine {
+    color: black;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+
+#content div div div {
+    padding: 0px;
+}
+
+#content i {
+    color: black;
+    background-color: rgba(0, 0, 0, 0.24);
+    font-size: 15px;
+    margin: 0px 10px 5px 0px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.link {
+    color: rgb(0, 98, 255);
+    font-size: 13px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+}
+
+.link:hover {
+    color: green;
+}
+
+#context {
+    background-color: white;
+}
+
+#context div {
+    display: flex;
+    margin: 10px 25px 30px 25px;
+}
+
+#context div div {
+    display: block;
+    margin: 0px;
+    padding-right: 10px;
+}
+
+#context img {
+    height: 150px;
+    width: 180px;
+}
+
+#footer {
+    background-image: url("https://personalpages.manchester.ac.uk/staff/m.dodge/cybergeography/atlas/teleglobe_large.gif");
+    background-repeat: no-repeat;
+    background-size: 620px;
+    padding-bottom: 25px;
+}
+
+#footer h1 {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 1000;
+    padding: 30px 0px 20px 0px;
+}
+
+#footer div {
+    padding-left: 500px;
+}
+
+#footer b {
+    color: white;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 1000;
+}
+
+#footer h6 {
+    color: white;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+
+#footer a {
+    color: white;
+    padding-left: 200px;
+}
+
+#footer a:hover {
+    color: yellow;
+}
